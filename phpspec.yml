@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: CrewkieApi
+        psr4_prefix: CrewkieApi
+        src_path: app
